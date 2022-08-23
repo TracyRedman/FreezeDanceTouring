@@ -1,0 +1,41 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{96801BF6-B46A-4905-B944-EA94436EED18}|Default">
+  <MonoDevelop.Ide.ItemProperties.FreezeDanceTouring.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../FreezeDanceTouring.Data/Migrations/20220817010613_InitMigration.cs">
+    <Files>
+      <File FileName="../FreezeDanceTouring.Data/Data/ApplicationDbContext.cs" Line="21" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/FreezeDanceTouring.Data.csproj" Line="11" Column="58" />
+      <File FileName="Program.cs" Line="41" Column="21" />
+      <File FileName="FreezeDanceTouring.MVC.csproj" Line="39" Column="1" />
+      <File FileName="../FreezeDanceTouring.Models/FreezeDanceTouring.Models.csproj" Line="13" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/Data/Artist.cs" Line="26" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/Data/Agent.cs" Line="14" Column="42" />
+      <File FileName="../FreezeDanceTouring.Data/Data/Tour.cs" Line="17" Column="1" />
+      <File FileName="appsettings.json" Line="15" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/Data/Ticket.cs" Line="19" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/Data/Venue.cs" Line="22" Column="1" />
+      <File FileName="../FreezeDanceTouring.Data/Migrations/20220817010613_InitMigration.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FreezeDanceTouring.MVC" expanded="True">
+            <Node name="FreezeDanceTouring.Data" expanded="True">
+              <Node name="Data" expanded="True" />
+            </Node>
+            <Node name="FreezeDanceTouring.MVC" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="FreezeDanceTouring.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
